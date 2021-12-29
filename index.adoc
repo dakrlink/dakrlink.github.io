@@ -25,7 +25,7 @@
 
 |http://dakr.link/shortcuts[dakr.link/shortcuts]
 |list of my shortcuts
-|image:dakr-link-shortcuts.png[QR code,align="center",link="{imagesdir}dakr-link-shortcuts.png]
+|image:dakr-link-shortcuts.png[QR code,align="center",link="{imagesdir}dakr-link-shortcuts.png"]
 |https://damiankrawczyk.com/en/latest/shortcuts/index.html
 
 |===
