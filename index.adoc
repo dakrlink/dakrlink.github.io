@@ -2,11 +2,30 @@
 :author:    Damian Krawczyk
 :email:     damian@damiankrawczyk.com
 :stylesheet: adoc-github.css
+:imagesdir: https://raw.githubusercontent.com/dakrlink/dakrlink.github.io/master/qr/
+:revdate:       {localdatetime}
+:nofooter:
 
-[%header,format=csv]
+[%header,cols="1,3,1,1"]
 |===
-Short URL,Info,Target URL
-http://dakr.link[dakr.link],list of my links,https://dakrlink.github.io
-http://dakr.link/bookmarks[dakr.link/bookmarks],list of my bookmarks,https://damiankrawczyk.com/en/latest/bookmarks/bookmarks.html
-http://dakr.link/shortcuts[dakr.link/shortcuts],list of my shortcuts,https://damiankrawczyk.com/en/latest/shortcuts/index.html
+^|Short URL
+^|Info
+^|QR
+^|Target URL
+
+|http://dakr.link[dakr.link]
+|list of my links
+|image:dakr-link.png[QR code,link="{imagesdir}dakr-link.png"]
+|https://dakrlink.github.io
+
+|http://dakr.link/bookmarks[dakr.link/bookmarks]
+|list of my bookmarks
+|image:dakr-link-bookmarks.png[QR code,link="{imagesdir}dakr-link-bookmarks.png"]
+|https://damiankrawczyk.com/en/latest/bookmarks/bookmarks.html
+
+|http://dakr.link/shortcuts[dakr.link/shortcuts]
+|list of my shortcuts
+|image:dakr-link-shortcuts.png[QR code,align="center",link="{imagesdir}dakr-link-shortcuts.png]
+|https://damiankrawczyk.com/en/latest/shortcuts/index.html
+
 |===
