@@ -6,6 +6,7 @@
 [%header,format=csv]
 |===
 Short URL,Info,Target URL
+http://dakr.link[dakr.link],list of my links,https://dakrlink.github.io
 http://dakr.link/bookmarks[dakr.link/bookmarks],list of my bookmarks,https://damiankrawczyk.com/en/latest/bookmarks/bookmarks.html
 http://dakr.link/shortcuts[dakr.link/shortcuts],list of my shortcuts,https://damiankrawczyk.com/en/latest/shortcuts/index.html
 |===
