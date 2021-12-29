@@ -45,12 +45,12 @@
 
 |http://dakr.link/gpich[dakr.link/gpich]
 |GPI - GOV PL Info - Channels
-|image:dakr-link-gpi.png[QR code,align="center",link="{imagesdir}dakr-link-gpi.png"]
+|image:dakr-link-gpich.png[QR code,align="center",link="{imagesdir}dakr-link-gpich.png"]
 |https://damiankrawczyk.com/en/latest/projects/gov-pl-info/channels
 
 |http://dakr.link/gpich-pl[dakr.link/gpich-pl]
 |GPI - GOV PL Info - Channels 🇵🇱
-|image:dakr-link-gpi-pl.png[QR code,align="center",link="{imagesdir}dakr-link-gpi-pl.png"]
+|image:dakr-link-gpich-pl.png[QR code,align="center",link="{imagesdir}dakr-link-gpich-pl.png"]
 |https://damiankrawczyk.com/en/latest/projects/gov-pl-info/channels
 
 |===
