@@ -18,6 +18,11 @@
 |image:dakr-link.png[QR code,link="{imagesdir}dakr-link.png"]
 |https://dakrlink.github.io
 
+|http://dakr.link/c[dakr.link/c]
+|contact to me
+|image:dakr-link-c.png[QR code,link="{imagesdir}dakr-link-c.png"]
+|https://damiankrawczyk.com/en/latest/contact
+
 |http://dakr.link/bookmarks[dakr.link/bookmarks]
 |list of my bookmarks
 |image:dakr-link-bookmarks.png[QR code,link="{imagesdir}dakr-link-bookmarks.png"]
