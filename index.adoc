@@ -53,4 +53,9 @@
 |image:dakr-link-gpich-pl.png[QR code,align="center",link="{imagesdir}dakr-link-gpich-pl.png"]
 |https://damiankrawczyk.com/en/latest/projects/gov-pl-info/channels
 
+|http://dakr.link/n1[dakr.link/n1]
+|Note 1: Insert current date and time
+|image:dakr-link-n1.png[QR code,align="center",link="{imagesdir}dakr-link-n1.png"]
+|https://damiankrawczyk.com/en/latest/notes/insert-current-date-and-time/insert-current-date-and-time.html
+
 |===
