@@ -58,4 +58,9 @@
 |image:dakr-link-n1.png[QR code,align="center",link="{imagesdir}dakr-link-n1.png"]
 |https://damiankrawczyk.com/en/latest/notes/insert-current-date-and-time/insert-current-date-and-time.html
 
+|http://dakr.link/n2[dakr.link/n2]
+|Note 2: Apple Automator
+|image:dakr-link-n2.png[QR code,align="center",link="{imagesdir}dakr-link-n2.png"]
+|https://damiankrawczyk.com/en/latest/notes/apple-automator/apple-automator.html
+
 |===
