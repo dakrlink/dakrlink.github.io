@@ -3,7 +3,7 @@
 :author:    Damian Krawczyk
 :email:     https://damiankrawczyk.com[damiankrawczyk.com]
 :stylesheet: adoc-github.css
-:imagesdir: https://raw.githubusercontent.com/dakrlink/dakrlink.github.io/master/qr/
+:imagesdir: https://raw.githubusercontent.com/dakrlink/dakrlink.github.io/gh-pages/qr/
 :nofooter:
 
 [%header,cols="1,3,1,1"]
