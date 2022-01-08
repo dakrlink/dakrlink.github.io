@@ -16,7 +16,7 @@ jobs:
         run: sudo apt-get install -y asciidoctor
 
       - name: Build
-        run: asciidoctor index.adoc -o index.html -D build
+        run: asciidoctor dakr.link.adoc -o index.html -D build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.2.0
