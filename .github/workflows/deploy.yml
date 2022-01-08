@@ -17,7 +17,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: test
-        run: ls -la /usr/share/fonts/truetype
+        run: ls -laR /usr/share/fonts/truetype
 
       - name: Build
         run: asciidoctor dakr.link.adoc -o index.html -D build
