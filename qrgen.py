@@ -21,8 +21,22 @@ def add_text(addr, target_dir, file_name):
     width_2 = width - (width-40)
     height_2 = height - 30
     I1 = ImageDraw.Draw(img)
-    # font = ImageFont.truetype('/System/Library/Fonts/Supplemental/Courier New.ttf', 20)
-    font = ImageFont.truetype('/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf', 20)
+
+    font_macos = '/System/Library/Fonts/Supplemental/Courier New.ttf'
+    font_ubuntu = '/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf'
+    font_to_use = ''
+
+    if os.path.exists(font_ubuntu):
+        font_to_use = font_ubuntu
+    elif os.path.exists(font_macos):
+        font_to_use = font_macos
+    else:
+        print('Ups, defined fonts are not available:')
+        print(font_ubuntu)
+        print(font_macos)
+        exit(0)
+
+    font = ImageFont.truetype(font_to_use, 20)
     I1.text((width_2, height_2), addr, font=font, fill="black")
     img.save(f'{target_dir}/{file_name}.png')
 
