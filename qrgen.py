@@ -32,7 +32,13 @@ source_file = 'links.csv'
 if not os.path.exists(target_dir):
     os.makedirs(target_dir)
 
-with open(source_file) as f:
+if not os.path.exists(source_file):
+    with open(source_file, 'w') as f:
+        f.write('dakr.link')
+        f.write(os.linesep)
+        f.write('damiankrawczyk.com')
+
+with open(source_file, 'r') as f:
     lines = f.read().splitlines()
     for line in lines:
         addr = line
