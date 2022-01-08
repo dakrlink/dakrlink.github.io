@@ -41,7 +41,7 @@
 |http://dakr.link/gpi-pl[dakr.link/gpi-pl]
 |GPI - GOV PL Info 🇵🇱
 |image:dakr-link-gpi-pl.png[QR code,align="center",link="{imagesdir}dakr-link-gpi-pl.png"]
-|https://damiankrawczyk.com/en/latest/projects/gov-pl-info
+|https://damiankrawczyk.com/pl/latest/projects/gov-pl-info
 
 |http://dakr.link/gpich[dakr.link/gpich]
 |GPI - GOV PL Info - Channels
@@ -51,7 +51,7 @@
 |http://dakr.link/gpich-pl[dakr.link/gpich-pl]
 |GPI - GOV PL Info - Channels 🇵🇱
 |image:dakr-link-gpich-pl.png[QR code,align="center",link="{imagesdir}dakr-link-gpich-pl.png"]
-|https://damiankrawczyk.com/en/latest/projects/gov-pl-info/channels
+|https://damiankrawczyk.com/pl/latest/projects/gov-pl-info/channels
 
 |http://dakr.link/n1[dakr.link/n1]
 |Note 1: Insert current date and time
