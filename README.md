@@ -11,7 +11,7 @@
 2. List of links and their's descriptions created using AsciiDoc (see my list in [dakr.link.adoc](https://github.com/dakrlink/dakrlink.github.io/blob/master/dakr.link.adoc)).
 3. List of links created in csv file (see my list in [links.csv](https://github.com/dakrlink/dakrlink.github.io/blob/master/links.csv)).
 4. QR codes generated from [links.csv](https://github.com/dakrlink/dakrlink.github.io/blob/master/links.csv) using [qrgen.py](https://github.com/dakrlink/dakrlink.github.io/blob/master/qrgen.py).
-5. GitHub Page deployed using GitHub Action's Workflow (see Workflow file definition [.github/workflows/deploy.yml](https://github.com/dakrlink/dakrlink.github.io/blob/master/.github/workflows/deploy.yml)).
+5. GitHub Page deployed using GitHub Action [Deploy to GitHub Pages](https://github.com/marketplace/actions/deploy-to-github-pages) (see Workflow file definition [.github/workflows/deploy.yml](https://github.com/dakrlink/dakrlink.github.io/blob/master/.github/workflows/deploy.yml)).
 ## QR codes
 
 1. `mkvirtualenv qrgen`
