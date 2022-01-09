@@ -14,52 +14,52 @@
 ^|QR
 |Target URL
 
-|http://dakr.link[dakr.link]
+|https://dakr.link[dakr.link]
 |list of my links
 |image:dakr-link.png[QR code,link="{imagesdir}dakr-link.png"]
 |https://dakrlink.github.io
 
-|http://dakr.link/c[dakr.link/c]
+|https://dakr.link/c[dakr.link/c]
 |contact to me
 |image:dakr-link-c.png[QR code,link="{imagesdir}dakr-link-c.png"]
 |https://damiankrawczyk.com/en/latest/contact
 
-|http://dakr.link/bookmarks[dakr.link/bookmarks]
+|https://dakr.link/bookmarks[dakr.link/bookmarks]
 |list of my bookmarks
 |image:dakr-link-bookmarks.png[QR code,link="{imagesdir}dakr-link-bookmarks.png"]
 |https://damiankrawczyk.com/en/latest/bookmarks/bookmarks.html
 
-|http://dakr.link/shortcuts[dakr.link/shortcuts]
+|https://dakr.link/shortcuts[dakr.link/shortcuts]
 |list of my shortcuts
 |image:dakr-link-shortcuts.png[QR code,align="center",link="{imagesdir}dakr-link-shortcuts.png"]
 |https://damiankrawczyk.com/en/latest/shortcuts/index.html
 
-|http://dakr.link/gpi[dakr.link/gpi]
+|https://dakr.link/gpi[dakr.link/gpi]
 |GPI - GOV PL Info
 |image:dakr-link-gpi.png[QR code,align="center",link="{imagesdir}dakr-link-gpi.png"]
 |https://damiankrawczyk.com/en/latest/projects/gov-pl-info
 
-|http://dakr.link/gpi-pl[dakr.link/gpi-pl]
+|https://dakr.link/gpi-pl[dakr.link/gpi-pl]
 |GPI - GOV PL Info 🇵🇱
 |image:dakr-link-gpi-pl.png[QR code,align="center",link="{imagesdir}dakr-link-gpi-pl.png"]
 |https://damiankrawczyk.com/pl/latest/projects/gov-pl-info
 
-|http://dakr.link/gpich[dakr.link/gpich]
+|https://dakr.link/gpich[dakr.link/gpich]
 |GPI - GOV PL Info - Channels
 |image:dakr-link-gpich.png[QR code,align="center",link="{imagesdir}dakr-link-gpich.png"]
 |https://damiankrawczyk.com/en/latest/projects/gov-pl-info/channels
 
-|http://dakr.link/gpich-pl[dakr.link/gpich-pl]
+|https://dakr.link/gpich-pl[dakr.link/gpich-pl]
 |GPI - GOV PL Info - Channels 🇵🇱
 |image:dakr-link-gpich-pl.png[QR code,align="center",link="{imagesdir}dakr-link-gpich-pl.png"]
 |https://damiankrawczyk.com/pl/latest/projects/gov-pl-info/channels
 
-|http://dakr.link/n1[dakr.link/n1]
+|https://dakr.link/n1[dakr.link/n1]
 |Note 1: Insert current date and time
 |image:dakr-link-n1.png[QR code,align="center",link="{imagesdir}dakr-link-n1.png"]
 |https://damiankrawczyk.com/en/latest/notes/insert-current-date-and-time/insert-current-date-and-time.html
 
-|http://dakr.link/n2[dakr.link/n2]
+|https://dakr.link/n2[dakr.link/n2]
 |Note 2: Apple Automator
 |image:dakr-link-n2.png[QR code,align="center",link="{imagesdir}dakr-link-n2.png"]
 |https://damiankrawczyk.com/en/latest/notes/apple-automator/apple-automator.html
