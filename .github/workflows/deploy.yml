@@ -4,6 +4,8 @@ on:
     branches: [ master, main ]
   pull_request:
     branches: [ master, main ]
+env:
+  source_file_name: dakr.link
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -20,7 +22,7 @@ jobs:
         run: python qrgen.py
 
       - name: Build
-        run: asciidoctor dakr.link.adoc -o index.html -D build
+        run: asciidoctor ${{ env.source_file_name }}.adoc -o index.html -D build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.2.0
