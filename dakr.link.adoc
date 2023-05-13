@@ -55,9 +55,9 @@
 |https://damiankrawczyk.com/pl/latest/projects/gov-pl-info/channels
 
 |https://dakr.link/n1[dakr.link/n1]
-|Note 1: Insert current date and time
+|Note 1: Visual Studio Code
 |image:dakr-link-n1.png[QR code,align="center",link="{imagesdir}dakr-link-n1.png"]
-|https://damiankrawczyk.com/en/latest/notes/insert-current-date-and-time/insert-current-date-and-time.html
+|https://damiankrawczyk.com/en/latest/notes/visual-studio-code.html
 
 |https://dakr.link/n2[dakr.link/n2]
 |Note 2: Apple Automator
