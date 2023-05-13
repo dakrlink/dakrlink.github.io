@@ -56,6 +56,7 @@ with open(source_file, 'r') as f:
     lines = f.read().splitlines()
     for line in lines:
         addr = line
-        file_name = line.replace('.', '-').replace('/', '-')
+        file_name = line.replace('.', '-').replace('https://', '').replace('/', '-')
         qrgen(addr, target_dir, file_name)
+        addr = addr.replace('https://', '')
         add_text(addr, target_dir, file_name)
