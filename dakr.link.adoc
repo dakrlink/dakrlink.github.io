@@ -22,46 +22,36 @@
 |https://dakr.link/c[dakr.link/c]
 |contact to me
 |image:dakr-link-c.png[QR code,link="{imagesdir}dakr-link-c.png"]
-|https://damiankrawczyk.com/en/latest/contact
-
-|https://dakr.link/bookmarks[dakr.link/bookmarks]
-|list of my bookmarks
-|image:dakr-link-bookmarks.png[QR code,link="{imagesdir}dakr-link-bookmarks.png"]
-|https://damiankrawczyk.com/en/latest/bookmarks/bookmarks.html
-
-|https://dakr.link/shortcuts[dakr.link/shortcuts]
-|list of my shortcuts
-|image:dakr-link-shortcuts.png[QR code,align="center",link="{imagesdir}dakr-link-shortcuts.png"]
-|https://damiankrawczyk.com/en/latest/shortcuts/index.html
+|https://damiankrawczyk.com/en/contact/
 
 |https://dakr.link/gpi[dakr.link/gpi]
 |GPI - GOV PL Info
 |image:dakr-link-gpi.png[QR code,align="center",link="{imagesdir}dakr-link-gpi.png"]
-|https://damiankrawczyk.com/en/latest/projects/gov-pl-info
+|https://damiankrawczyk.com/en/projects/gpi/
 
 |https://dakr.link/gpi-pl[dakr.link/gpi-pl]
 |GPI - GOV PL Info 🇵🇱
 |image:dakr-link-gpi-pl.png[QR code,align="center",link="{imagesdir}dakr-link-gpi-pl.png"]
-|https://damiankrawczyk.com/pl/latest/projects/gov-pl-info
+|https://damiankrawczyk.com/pl/projekty/gpi/
 
 |https://dakr.link/gpich[dakr.link/gpich]
 |GPI - GOV PL Info - Channels
 |image:dakr-link-gpich.png[QR code,align="center",link="{imagesdir}dakr-link-gpich.png"]
-|https://damiankrawczyk.com/en/latest/projects/gov-pl-info/channels
+|https://damiankrawczyk.com/en/projects/gpi/#channels
 
 |https://dakr.link/gpich-pl[dakr.link/gpich-pl]
 |GPI - GOV PL Info - Channels 🇵🇱
 |image:dakr-link-gpich-pl.png[QR code,align="center",link="{imagesdir}dakr-link-gpich-pl.png"]
-|https://damiankrawczyk.com/pl/latest/projects/gov-pl-info/channels
+|https://damiankrawczyk.com/pl/projekty/gpi/#kanały
 
 |https://dakr.link/n1[dakr.link/n1]
 |Note 1: Visual Studio Code
 |image:dakr-link-n1.png[QR code,align="center",link="{imagesdir}dakr-link-n1.png"]
-|https://damiankrawczyk.com/en/latest/notes/visual-studio-code.html
+|https://damiankrawczyk.com/en/notes/visual-studio-code/
 
 |https://dakr.link/n2[dakr.link/n2]
 |Note 2: Apple Automator
 |image:dakr-link-n2.png[QR code,align="center",link="{imagesdir}dakr-link-n2.png"]
-|https://damiankrawczyk.com/en/latest/notes/apple-automator.html
+|https://damiankrawczyk.com/en/notes/apple-automator/
 
 |===
